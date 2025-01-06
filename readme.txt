@@ -1,0 +1,1 @@
+Keep all the files in the same folder. Open terminal in that folder and run 'python app.py' and then open 'http://127.0.0.1:5000/'. Enjoy !
